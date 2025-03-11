@@ -1,70 +1,60 @@
-# Getting Started with Create React App
+# Meu Novo Portfólio
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Este é o repositório do meu portfólio pessoal, desenvolvido para demonstrar minhas habilidades e projetos na área de tecnologia.
 
-## Available Scripts
+## Sobre Mim
 
-In the project directory, you can run:
+Sou um profissional apaixonado por tecnologia, com formação em Tecnologia da Informação e Comunicação. Estou em transição para a área de desenvolvimento, com foco em programação, especialmente em tecnologias como JavaScript, React, Node.js, TypeScript e React Native. Tenho habilidades em comunicação eficaz, trabalho em equipe e resolução de problemas, além de forte interesse em continuar aprendendo e me aprimorando na área de TI. Estou motivado a aplicar meus conhecimentos em projetos de desenvolvimento de software, contribuindo para o crescimento e inovação da empresa.
 
-### `npm start`
+## Formação Acadêmica
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- **Tecnologia da Informação e Comunicação** - Universidade Federal de Santa Catarina (UFSC) | Concluído em 2019
+- **Ciência da Computação (Incompleto)** - Universidade do Extremo Sul Catarinense (UNESC)
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Experiência Profissional
 
-### `npm test`
+### Proprietário - Galo Placas Veiculares Ltda
+*Jacinto Machado-SC | Agosto 2022 - Atual*
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- Gestão administrativa e operacional da empresa.
+- Comunicação com clientes e parceiros comerciais.
+- Coordenação de processos internos.
+- Acompanhamento financeiro.
+- Desenvolvimento de estratégias comerciais.
 
-### `npm run build`
+### Estampador - Schmidt Placas e Lacres para Veículos
+*Jacinto Machado-SC | Agosto 2020 - Agosto 2022*
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- Gerenciamento e operação do sistema de emplacamento de veículos.
+- Comunicação corporativa.
+- Apoio nas atividades financeiras.
+- Execução de atividades administrativas.
+- Manutenção de documentação e registros.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### Auxiliar Administrativo - Comércio de Pedras Araçá
+*Jacinto Machado-SC | Novembro 2011 - Julho 2020*
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+- Coordenação das atividades administrativas.
+- Atendimento a clientes.
+- Organização e controle de documentos.
+- Controle de entrada e saída de cargas.
+- Apoio nas operações de vendas e compras.
 
-### `npm run eject`
+## Cursos Complementares
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+- **Fullstack JavaScript** | OneBitcode | 2022
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## Habilidades
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+- Desenvolvimento em JavaScript
+- Criação de interfaces com React
+- Programação para dispositivos móveis com React Native
+- Desenvolvimento de backend com Node.js
+- Manipulação de bancos de dados com SQL
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+## Contato
 
-## Learn More
+- **E-mail:** [jonathan.dsg104@gmail.com](mailto:jonathan.dsg104@gmail.com)
+- **LinkedIn:** [Jonathan Gomes](https://www.linkedin.com/in/jonathangomes104)
+- **GitHub:** [jonathandsg104](https://github.com/jonathandsg104)
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
